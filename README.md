@@ -1,1 +1,2 @@
 # DataAugmento
+A tool(website) which augments a user given image dataset through various data augmenting techniques like flipping, random cropping, random rotation, mix-up, kernel filtering, Random Erasing, Grey-scaling, Colour Space Transformation, Noise Injection etc implemented in python.
